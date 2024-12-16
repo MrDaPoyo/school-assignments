@@ -22,10 +22,10 @@ Las cifras son impactantes:
 - En Asia y el Pacífico: **127,3 millones**.  
 - En América Latina y el Caribe: **17,4 millones**.  
 - En África subsahariana: **48 millones**.  
-- En el Medio Oriente y el norte de África: **13,4 millones**.  
+- En el Medio Oriente y el norte de África: **13,4 millones**.   
 
 ![Niños realizando trabajo en africa](/static/posts/child-labor-2.jpg)
 
-No creo que los pobres niños que están trabajando duro sean bien remunerados. Los explotadores se llevan todo el beneficio mientras que los niños se llevan apenas unos pocos centavos. 
+No creo que los pobres niños que están trabajando duro sean bien remunerados. Los explotadores se llevan todo el beneficio, mientras que los niños apenas reciben unos pocos centavos.
 
 Más información en el [Informe de la Organización Internacional del Trabajo (OIT)](https://www.ilo.org/es/media/313771/download).  
