@@ -151,5 +151,5 @@ img {
     height: fit-content;
 }
 .h-expand {
-    height: max-content;
+    height: 100%;
 }

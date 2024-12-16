@@ -40,6 +40,10 @@ a {
     color: var(--color);
 }
 
+img {
+    max-width: 50%;
+}
+
 .bold {
     font-weight: 700;
 }
@@ -147,5 +151,5 @@ a {
     height: fit-content;
 }
 .h-expand {
-    height: max-content;
+    height: 100%;
 }
