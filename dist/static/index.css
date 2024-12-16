@@ -146,3 +146,6 @@ a {
 .h-100 {
     height: fit-content;
 }
+.h-expand {
+    height: max-content;
+}
