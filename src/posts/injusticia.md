@@ -24,4 +24,6 @@ Las cifras son impactantes:
 - En África subsahariana: **48 millones**.  
 - En el Medio Oriente y el norte de África: **13,4 millones**.  
 
+![Niños realizando trabajo en africa](/posts/child-labor-2.jpg)
+
 Más información en el [Informe de la Organización Internacional del Trabajo (OIT)](https://www.ilo.org/es/media/313771/download).  
