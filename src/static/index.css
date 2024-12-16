@@ -40,6 +40,10 @@ a {
     color: var(--color);
 }
 
+img {
+    max-width: 50%;
+}
+
 .bold {
     font-weight: 700;
 }
