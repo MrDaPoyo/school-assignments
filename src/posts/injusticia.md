@@ -26,4 +26,6 @@ Las cifras son impactantes:
 
 ![Niños realizando trabajo en africa](/static/posts/child-labor-2.jpg)
 
+No creo que los pobres niños que están trabajando duro sean bien remunerados. Los explotadores se llevan todo el beneficio mientras que los niños se llevan apenas unos pocos centavos. 
+
 Más información en el [Informe de la Organización Internacional del Trabajo (OIT)](https://www.ilo.org/es/media/313771/download).  
